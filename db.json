@@ -1,0 +1,52 @@
+{
+  "productos": [
+    {
+      "id": "ddaa",
+      "nombre": "Tenis",
+      "precio": "45",
+      "imagen": "https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.jpg"
+    },
+    {
+      "id": "5a15",
+      "nombre": "producto 2",
+      "precio": "214",
+      "imagen": "https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.jpg"
+    },
+    {
+      "id": "51aa",
+      "nombre": "Tenis verdes",
+      "precio": "454",
+      "imagen": "https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.jpg"
+    },
+    {
+      "id": "9992",
+      "nombre": "Tenis Pro",
+      "precio": "765",
+      "imagen": "https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.jpg"
+    },
+    {
+      "id": "9ac4",
+      "nombre": "Tenis",
+      "precio": "098",
+      "imagen": "https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.jpg"
+    },
+    {
+      "id": "a1da",
+      "nombre": "Producto 10",
+      "precio": "54",
+      "imagen": "https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.jpg"
+    },
+    {
+      "id": "344c",
+      "nombre": "producto 3",
+      "precio": "54",
+      "imagen": "https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.jpg"
+    },
+    {
+      "id": "3e35",
+      "nombre": "Tenis 6",
+      "precio": "54",
+      "imagen": "https://img.daisyui.com/images/stock/photo-1606107557195-0e29a4b5b4aa.jpg"
+    }
+  ]
+}
